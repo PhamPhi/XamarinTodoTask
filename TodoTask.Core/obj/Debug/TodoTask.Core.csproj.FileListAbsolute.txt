@@ -1,0 +1,11 @@
+C:\Users\VS9 X64Bit\Documents\Projects\TodoTask\TodoTask.Core\bin\Debug\TodoTask.Core.dll
+C:\Users\VS9 X64Bit\Documents\Projects\TodoTask\TodoTask.Core\bin\Debug\TodoTask.Core.pdb
+C:\Users\VS9 X64Bit\Documents\Projects\TodoTask\TodoTask.Core\bin\Debug\TodoTask.Core.dll.mdb
+C:\Users\VS9 X64Bit\Documents\Projects\TodoTask\TodoTask.Core\bin\Debug\TodoTask.Core.apk
+C:\Users\VS9 X64Bit\Documents\Projects\TodoTask\TodoTask.Core\bin\Debug\TodoTask.Core-Signed.apk
+C:\Users\VS9 X64Bit\Documents\Projects\TodoTask\TodoTask.Core\obj\Debug\TodoTask.Core.dll
+C:\Users\VS9 X64Bit\Documents\Projects\TodoTask\TodoTask.Core\obj\Debug\TodoTask.Core.pdb
+C:\Users\VS9 X64Bit\Documents\Projects\TodoTask\TodoTask.Core\obj\Debug\android\bin\TodoTask.Core.apk
+C:\Users\VS9 X64Bit\Documents\Projects\TodoTask\TodoTask.Core\obj\Debug\res\values\strings.xml
+C:\Users\VS9 X64Bit\Documents\Projects\TodoTask\TodoTask.Core\obj\Debug\R.cs.flag
+C:\Users\VS9 X64Bit\Documents\Projects\TodoTask\TodoTask.Core\obj\Debug\uploadflags.txt
